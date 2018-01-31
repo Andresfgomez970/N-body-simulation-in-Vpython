@@ -1,6 +1,6 @@
 # N-body-simulation-in-Vpython
 
-The N-bodies problem is well known in the literature. One of its future is the lack of an analytical solution for every instant of time. Nevertheless, is possible to coumpute the following instants of time knowing an inicial configuration (the mass, inicial position and inicial velocity of ecah body).
+The N-bodies problem is well known in the literature. One of its feutures is the lack of an analytical solution for every instant of time. Nevertheless,it is possible to coumpute the followings configurations in time knowing an inicial configuration (the mass, inicial position and inicial velocity of ecah body).
 
 ## Getting Started 
 
