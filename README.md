@@ -13,9 +13,9 @@ The program takes a file with the following form:
 ### .
 ### .
 ### mi xi1 xi2 xi3 vi1 vi2 vi3
-### o
-### o
-### o
+### .
+### .
+### .
 ### mN xN1 xN2 xN3 vN1 vN2 vN3
 ### -----------------------------------------(here finishes)
 
