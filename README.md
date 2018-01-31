@@ -1,6 +1,6 @@
 # N-body-simulation-in-Vpython
 
-The N-bodies problem is well known in the literature. One of its principal features is the lack of an analytical solution for every instant of time. Nevertheless,it is possible to coumpute the following configurations in time, knowing an inicial configuration (the mass, inicial position and inicial velocity of ecah body).
+The N-bodies problem is well known in the literature. One of its principal features is the lack of an analytical solution for every instant of time. Nevertheless,it is possible to coumpute the following configurations in time, knowing an inicial configuration (the mass, inicial position and inicial velocity of each body).
 
 ## Getting Started 
 
@@ -30,10 +30,9 @@ To run this program you need to have installed the folowing libaries of python: 
 
 ## Running the program 
 
-It is only necessary to change the input in the generate funtion in the file  
+It is only necessary to change the input in the "generate" funtion in the file "Nbodies.py". For example to run the configurations in the 'SSthrid.ap', the line could go as follows: 
 
-generate('SSthrid.ap')
-
+obj,M = generate('SSthrid.ap')
 
 ## Built With
 
@@ -42,7 +41,7 @@ generate('SSthrid.ap')
 
 ## Authors
 
-* **Andrés Felipe Gómez** - *Initial work without classes implentation* -
+* **Andrés Felipe Gómez** - *Initial Nbodies code without classes implentation* -
 * **Luis Abelardo Papiernik** - *Actual code* -
 
 ## License
@@ -55,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks Luis for helping me and explainme how to manage classes to write this code as is actually right know. 
+* Thanks Luis for helping me and explain me how to manage classes to write this code as is actually right know. 
