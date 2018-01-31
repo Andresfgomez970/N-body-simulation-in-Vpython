@@ -9,11 +9,13 @@ The program takes a file with the following form:
 m px   py  pz  vx  vy  vz
 ----------------------------------------
 m1 x11 x12 x13 v11 v12 v13
-+
-+
+o
+o
+o
 mi xi1 xi2 xi3 vi1 vi2 vi3
-+
-+
+o
+o
+o
 mN xN1 xN2 xN3 vN1 vN2 vN3
 -----------------------------------------
 
