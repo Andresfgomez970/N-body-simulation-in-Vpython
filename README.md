@@ -7,15 +7,15 @@ The N-bodies problem is well known in the literature. One of its future is the l
 The program takes a file with the following form: 
 
 m px   py  pz  vx  vy  vz
-
+----------------------------------------
 m1 x11 x12 x13 v11 v12 v13
-.
-.
++
++
 mi xi1 xi2 xi3 vi1 vi2 vi3
-.
-.
++
++
 mN xN1 xN2 xN3 vN1 vN2 vN3
-
+-----------------------------------------
 
 where pi is position in the i-axis, vi is the velocity on the i-axis, and m the mass (mi the one of the ith-body). So, xi2 is for example the intial position on y of the body i.   
 
