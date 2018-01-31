@@ -26,7 +26,7 @@ Several sonfigurations can be found in the files with termination ".ap"
 
 ## Prerequisites
 
-To run this program you need to have installed the folowing libaries of python: scipy.constants, visual (6 version), and numpy.
+To run this program you need to have installed the folowing libaries of python:  visual (there are some lines that can be only executed in version 6 but they are commented), and numpy.
 
 ## Running the program 
 
