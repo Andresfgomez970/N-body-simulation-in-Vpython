@@ -1,6 +1,4 @@
-from __future__ import division
-from argparse import ArgumentParser
-import scipy.constants as C
+#from argparse import ArgumentParser #Discomment to pass the variables  
 import visual as v
 import numpy as np
 
