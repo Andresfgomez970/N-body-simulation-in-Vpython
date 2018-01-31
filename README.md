@@ -1,6 +1,6 @@
 # N-body-simulation-in-Vpython
 
-The N-bodies problem is well known in the literature. One of its feutures is the lack of an analytical solution for every instant of time. Nevertheless,it is possible to coumpute the followings configurations in time knowing an inicial configuration (the mass, inicial position and inicial velocity of ecah body).
+The N-bodies problem is well known in the literature. One of its principal features is the lack of an analytical solution for every instant of time. Nevertheless,it is possible to coumpute the following configurations in time, knowing an inicial configuration (the mass, inicial position and inicial velocity of ecah body).
 
 ## Getting Started 
 
@@ -28,7 +28,7 @@ Several sonfigurations can be found in the files with termination ".ap"
 
 To run this program you need to have installed the folowing libaries of python: scipy.constants, visual (6 version), and numpy.
 
-## Runing the program 
+## Running the program 
 
 It is only necessary to change the input in the generate funtion in the file  
 
