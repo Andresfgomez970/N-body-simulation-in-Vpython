@@ -5,18 +5,18 @@ The N-bodies problem is well known in the literature. One of its principal featu
 ## Getting Started 
 
 The program takes a file with the following form: <br />
-m px   py  pz  vx  vy  vz
-----------------------------------------(here begins the file)
-m1 x11 x12 x13 v11 v12 v13
-.
-.
-.
-mi xi1 xi2 xi3 vi1 vi2 vi3
-.
-.
-.
-mN xN1 xN2 xN3 vN1 vN2 vN3
------------------------------------------(here finishes)
+m px   py  pz  vx  vy  vz <br />
+----------------------------------------(here begins the file) <br />
+m1 x11 x12 x13 v11 v12 v13 <br />
+. <br />
+. <br />
+. <br />
+mi xi1 xi2 xi3 vi1 vi2 vi3 <br />
+. <br />
+. <br />
+. <br />
+mN xN1 xN2 xN3 vN1 vN2 vN3 <br />
+-----------------------------------------(here finishes) <br />
 
 where pi is position in the i-axis, vi is the velocity on the i-axis, and m the mass (mi the one of the ith-body). So, xi2 is for example the intial position on y of the body i.   
 
@@ -40,9 +40,8 @@ obj,M = generate('SSthrid.ap')
 
 ## Authors
 
-* **Andrés Felipe Gómez** - *Initial Nbodies code without classes implentation* -
-* **Luis Abelardo Papiernik** - *Actual code* -
-
+* **Andrés Felipe Gómez** 
+* **Luis Abelardo Papiernik**  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -53,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks Luis for helping me and explain me how to manage classes to write this code as is actually right know. 
+* Thanks Luis for helping me and explain me how to manage classes to write this code as it is right know. 
